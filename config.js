@@ -10,15 +10,15 @@ global.setting = {
 
 // Owner Information
 global.owner = [
-  ['6285956337454', 'YannOfficial-ID', true],
+  ['6285820313142', 'Sonzy-ID', true],
 ];
 
 // Bot Information
 global.info = {
-  nomerbot: '6289630388268', // nomor bot mu
-  pairingNumber: '6289630388268', // penting!! wajib ganti jadi nomor bot mu 
-  nameown: 'YannOfficial-ID',
-  nomerown: '6285956337454',
+  nomerbot: '6283847050986', // nomor bot mu
+  pairingNumber: '6283847050986', // penting!! wajib ganti jadi nomor bot mu 
+  nameown: 'Sonzy-ID',
+  nomerown: '6285820313142',
   token: 'VynaaAI4m2n1o', // Token harus diisi agar bot dapat berjalan
   packname: 'sticker by',
   author: 'YannOfficial-ID',
